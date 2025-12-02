@@ -1,4 +1,4 @@
-**🧩 Problem Statement**: 
+# **🧩 Problem Statement**: 
 
 Modern social platforms collect huge amounts of user data such as personal details, friendships, and page interactions. However, without proper analysis and processing, this raw data remains unstructured, inconsistent, and difficult to use for meaningful insights.
 
